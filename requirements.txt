@@ -95,6 +95,7 @@ pure-eval==0.2.2
 pycparser==2.21
 Pygments==2.16.1
 pyparsing==3.1.1
+PyPDF2==3.0.1
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2023.3.post1
